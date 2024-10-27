@@ -61,7 +61,7 @@ document.querySelector('.buttons').onclick = (e) => {
             case '-':
                 a = (+a) - (+b);
                 break;
-            case 'X':
+            case 'x':
                 a = (+a) * (+b);
                 break;
             case '/':
